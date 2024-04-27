@@ -34,7 +34,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-Your answer here...
+Here is my answer...
 
 Password: Paper Rings10MeetsLegaciesLuckyStars
 
